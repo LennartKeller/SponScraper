@@ -22,9 +22,7 @@ class SponScraper():
     
     def generateDates (self,start_time = None,end_time = None)->list:
         """Returns a list of all dates between start- and endtime as strings
-        Dates in format: (year,month,day) --> 2002,12,31
-        Takes dates from Counstructor if not called with arguments
-        Note: if only one date is changed by argument the other date is taken from constructor"""
+        Dates in format: (year,month,day) --> 2002,12,31"""
         
         from DateGenerator import DateGenerator
         
