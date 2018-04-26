@@ -1,2 +1,2 @@
 # SponScraper
-lädt alle SpiegelOnline Artikel für einen angegebenen Zeitraum als XML-Dokumente herunter
+scrapes all SpiegelOnline (www.spiegel.de) for a given period and saves it as xml files 
